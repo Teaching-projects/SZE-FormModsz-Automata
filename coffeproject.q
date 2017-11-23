@@ -13,7 +13,7 @@ A[] not deadlock
 /*
 
 */
-E[] Person.coins >= 0
+E<> Machine.coffe_nr  ==  0 and Machine.tea_nr == 0
 
 /*
 
@@ -23,9 +23,9 @@ A<> seconds < 30
 /*
 
 */
-A[] Person.coins > 0
+A[] Sanyi.coins > 0
 
 /*
 
 */
-E<> (Person.blood_pressure > 150 and Person.coins > 0 and Machine.coffe_nr  > 0)
+E<> (Sanyi.blood_pressure > 150 and Sanyi.coins > 0 and Machine.coffe_nr  > 0)
