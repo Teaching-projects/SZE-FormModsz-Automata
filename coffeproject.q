@@ -28,4 +28,9 @@ A[] Sanyi.coins > 0
 /*
 
 */
+E<> Machine.coins_in >= 2 and Machine.coffe_nr  == 0
+
+/*
+
+*/
 E<> (Sanyi.blood_pressure > 150 and Sanyi.coins > 0 and Machine.coffe_nr  > 0)
